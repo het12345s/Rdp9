@@ -13,7 +13,7 @@ ADD COMMENT
 Not a member of Pastebin yet? Sign Up, it unlocks many cool features!
 0.49 KB | None |  
   
-name: Avica
+name:Avica
  
 on:
   workflow_dispatch:
