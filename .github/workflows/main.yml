@@ -15,8 +15,7 @@ Not a member of Pastebin yet? Sign Up, it unlocks many cool features!
   
 name:Avica
  
-on:
-   workflow_dispatch:
+on:workflow_dispatch:
  
 jobs:
   build:
